@@ -1,6 +1,6 @@
 # minishell
 
-*This project has been created as part of the 42 curriculum by Carol Cortes, Cassiano Gross.*
+*This project has been created as part of the 42 curriculum by [Carol Cortes](https://github.com/carolcortes) and [Cassiano Gross](https://github.com/Zorug).*
 
 ## Description
 
@@ -92,14 +92,9 @@ minishell> echo $MY_VAR
 
 ### AI Usage
 
-AI tools were utilized for:
-- **Code structure and architecture**: Guidance on organizing the parsing, execution, and built-in command modules
-- **Memory management patterns**: Assistance with proper allocation and freeing strategies for complex data structures
-- **Signal handling implementation**: Understanding signal handlers and their proper use with global variables
-- **Testing and validation**: Creating test cases and edge case scenarios
-- **Documentation and README**: Formatting and structuring project documentation
+AI tools were used during development for code structure guidance and validation purposes.
 
-All AI-generated code was thoroughly reviewed, tested, and verified for correctness and compliance with the 42 Norm before being integrated into the project.
+All code was thoroughly reviewed and verified for correctness and compliance with the 42 Norm before integration.
 
 ## Technical Notes
 
