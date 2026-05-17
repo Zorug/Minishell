@@ -102,3 +102,8 @@ All code was thoroughly reviewed and verified for correctness and compliance wit
 - Implements a custom tokenizer for proper command-line argument parsing
 - Handles heredoc without updating shell history (as per requirements)
 - Memory is properly freed to prevent leaks (readline library leaks are not the project's responsibility)
+
+## Developers
+
+| [<img src="https://avatars.githubusercontent.com/u/98475840?v=4" width=115><br><sub>Carol Cortes</sub>](https://github.com/carolcortes) | [<img src="https://avatars.githubusercontent.com/u/54179576?v=4" width=115><br><sub>Cassiano Gross</sub>](https://github.com/Zorug) 
+| :---: | :---: |
